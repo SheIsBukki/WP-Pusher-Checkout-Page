@@ -229,7 +229,7 @@ input {
 	border-start-start-radius: 0.4rem;
 }
 
-#card-expiration-date {
+input #card-expiration-date {
 	width: 15rem;
 	border-radius: 0;
 	text-align: right;
